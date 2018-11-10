@@ -1,0 +1,11 @@
+body{background-color: #819595;}
+
+h1, h2, h3{
+    color: #696773;
+    font-family: "Comic Sans MS", serif;}
+
+.nav.navbar-nav.navbar-right li a {color: #696773;}
+
+.navbar-toggle{border-color: #819595;}
+
+.navbar-toggle .icon-bar {background-color: #819595;}
